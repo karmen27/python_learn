@@ -95,9 +95,6 @@ elif command == 'research':
 else:
 	print 'command is error'
 	os._exit(0)
-	print 'conmand'
-#		break
-
 
 #check the contact is exist or not
 #person.research()
